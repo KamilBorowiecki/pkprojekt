@@ -1,0 +1,14 @@
+multimetr Logit 45.00 XL830L 0.125
+oscyloskop Uni-T 1179.00 UTD2025CL 2.2 25MHz 2
+multimetr Keysight 499.99 34461A 2.5.
+analizator Keysight_Technologies 11150.00 N9320B 4.5 9kHz-3GHz 50
+multimetr Agilent 429.99 U1253B 1.5
+generator Keysight_Technologies 12999.99 33622A 4.5 120 120
+multimetr Fluke 199.99 117 0.55
+multimetr Fluke 349.99 87V 2.2
+oscyloskop Tektronix 8400.00 TBS2104 2.5 100 4 1
+oscyloskop Keysight_Technologies 15000.00 DSOX1204A 3.2 200 4 2 
+analizator Rohde_&_Schwarz 21999.00 FSV7 9 9-7 50 
+analizator Keysight_Technologies 14999.99 N9320B 6  9-3 50 
+generator Keysight_Technologies 11000.00  33522B 3 250 30 
+generator Rigol_Technologies 9999.99 DG1022Z 2.5 200 25 
